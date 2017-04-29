@@ -1,8 +1,3 @@
-# Amjidanutpan Ramanujam
-# CS 6630 
-# Project 3 - Human Head  (Prob 1)
-# 
-
 package require vtk
 
 ############################## Read the Head Data######################### 
